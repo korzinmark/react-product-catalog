@@ -3,6 +3,7 @@
 A product catalog single-page application built with React and TypeScript, featuring client-side routing, form validation, and data from a live REST API.
 
 **Live demo:** [react-product-catalog-puce.vercel.app](https://react-product-catalog-puce.vercel.app/)
+
 <img width="1043" height="857" alt="Screenshot 2026-09-20 at 18 06 21" src="https://github.com/user-attachments/assets/fd5b161f-1980-4abe-8bee-9e1f3a3ebd0b" />
 ## Features
 
